@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aceiquiewi.firatsivrikaya.de/sitemap.xml
